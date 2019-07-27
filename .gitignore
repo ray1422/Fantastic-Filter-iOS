@@ -1,4 +1,4 @@
-*.model
+*.mlmodel
 .DS_Store
 # Xcode
 #
